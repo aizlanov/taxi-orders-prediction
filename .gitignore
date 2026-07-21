@@ -1,0 +1,20 @@
+# Скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Чекпоинты Jupyter Notebook
+.ipynb_checkpoints
+
+# Виртуальные окружения
+.env
+.venv
+env/
+venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Исключить папку целиком (вместе со всем содержимым внутри)
+catboost_info/
